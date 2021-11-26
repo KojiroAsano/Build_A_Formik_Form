@@ -17,7 +17,7 @@
     2. **index.js** <br>
     3. **App.js** <br>
     4. **index.css** <br>
-  2. Put **index.js**, **App.js**, **index.css** files in **src**directory.
+  2. Put **index.js**, **App.js**, **index.css** files in **src** directory.
   3. Open shell and type **npm install formik --save**.
   4. Type **npm install** and **npm start**.
   5. Drag and drop **index.html** on the browser.
