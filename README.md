@@ -13,10 +13,10 @@
 
 ## Installation:
   1. Downloads each file into one file. <br>
-    1. **index.html** <br>
-    2. **index.js** <br>
-    3. **App.js** <br>
-    4. **index.css** <br>
+    1. **public/index.html** <br>
+    2. **src/index.js** <br>
+    3. **src/App.js** <br>
+    4. **src/index.css** <br>
   2. Put **index.js**, **App.js**, **index.css** files in **src** directory.
   3. Open shell and type **npm install formik --save**.
   4. Type **npm install** and **npm start**.
