@@ -8,7 +8,6 @@
 </div>
   
 ## Description:
-  This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week13.
   This program consists of javascript, html, and img files.
   This program check validation of login ID. If the E-mail(username) or pawword is invalid, then show the error messages in red.
   If the E-mail and password are valid, then browser shows "Login Successful" in an alert box.
