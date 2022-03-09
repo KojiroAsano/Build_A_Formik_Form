@@ -1,10 +1,12 @@
-# Build_A_Formik_Form-Week13-
+# Build_A_Formik
 
-<img src="Build_A_Formik_Form1.png" width='300'/>
-<img src="Build_A_Formik_Form2.png" width='300'/>
-<img src="Build_A_Formik_Form3.png" width='300'/>
-<img src="Build_A_Formik_Form4.png" width='300'/>
-
+<div>
+<img src="Build_A_Formik_Form1.png" width='500'/>
+<img src="Build_A_Formik_Form2.png" width='500'/>
+<img src="Build_A_Formik_Form3.png" width='500'/>
+<img src="Build_A_Formik_Form4.png" width='500'/>
+</div>
+  
 ## Description:
   This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week13.
   This program consists of javascript, html, and img files.
